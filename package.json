@@ -1,0 +1,8 @@
+{
+    "name": "apify-form-filler",
+    "version": "1.0.0",
+    "description": "An Apify Actor to fill out forms and scrape results",
+    "dependencies": {
+        "apify": "^3.0.0"
+    }
+}
